@@ -1,0 +1,7 @@
+# Data and output directories
+/data
+/figures
+/outputs
+
+# Configuration files
+/configs

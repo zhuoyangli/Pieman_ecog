@@ -4,8 +4,8 @@ Encoding and decoding models for ECoG data collected from participants listening
 
 # Setup
 ## setup up virtual env
-conda create -n enc python=3.9
-conda activate enc
+conda create -n pieman python=3.9
+conda activate pieman
 
 ## install dependencies
 pip install -r requirements.txt
@@ -15,4 +15,3 @@ pre-commit install
 
 ## run pre-commit against all files once
 pre-commit run --all-files
-
