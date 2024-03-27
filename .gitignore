@@ -5,3 +5,6 @@
 
 # Configuration files
 /configs
+
+# bytecode files
+/__pycache__
